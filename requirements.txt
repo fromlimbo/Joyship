@@ -1,0 +1,8 @@
+requests
+pymongo
+numpy
+pandas
+xlrd
+Flask==0.12.2
+celery==4.1.0
+gunicorn==19.7.1
